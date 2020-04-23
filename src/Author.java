@@ -9,6 +9,8 @@ public class Author {
 		this.name = name;
 		this.address = address;
 	}
+sdlmSnfd.KDSF.kjSDckjkshdckjksdlcjj
+DSfjsDlklkcjbsDLKLjvcblSJDbcljSDc
 
 	public static String getName() {
 		return name;
