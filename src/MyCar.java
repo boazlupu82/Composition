@@ -8,6 +8,7 @@ public class MyCar {
 		galgal[2]= new Wheel(35, "toyo");
 		galgal[3]= new Wheel(35, "toyo");
 		galgal[4]= new Wheel(35, "toyo");
+		z,cxnb<KZcb,ZNcb,zNxbc,Zcb,k,ZNXBc,ciSDHGLIHGSLDFHDGSDH
 		
 		Station [] statio1 = new Station[5];
 		statio1[0]= new Station("Galgalz", 98.1);
